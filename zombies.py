@@ -38,6 +38,7 @@ print("""(1) your dog
 (4) your cell phone""")
 answer = input(">")
 
+
 if answer == "1":
     score += random.randint(10, 20)
 if answer == "2":
