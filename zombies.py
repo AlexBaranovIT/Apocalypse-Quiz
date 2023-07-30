@@ -126,6 +126,7 @@ print("""(1) share it
 (4) burn it so there is no argument""")
 answer = input(">")
 
+
 if answer == "2":
     score += random.randint(10, 20)
 if answer == "1":
