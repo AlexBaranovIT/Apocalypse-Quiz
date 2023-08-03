@@ -1,5 +1,6 @@
 import random
 
+#Variable for counting total score of user
 score = 0
 
 
